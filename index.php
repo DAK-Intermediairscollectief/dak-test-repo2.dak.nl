@@ -12,6 +12,8 @@ and open the template in the editor.
     <body>
         <?php
         echo "regel 1";
+        echo "<br /><br />";
+        echo "regel 2";
         ?>
     </body>
 </html>
