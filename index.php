@@ -17,6 +17,8 @@ and open the template in the editor.
         echo "<br /><br />";
         echo "regel 3";
         echo "<br /><br />";
+        echo "regel 4";
+        echo "<br /><br />";
         echo "regel 5";
         ?>
     </body>
